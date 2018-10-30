@@ -1,3 +1,4 @@
+from puzzle_AI import *
 from random import *
 import copy
 def AI(mat):
